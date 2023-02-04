@@ -1,3 +1,9 @@
 [submodule "razorgrrl-theme"]
 	path = razorgrrl-theme
 	url = https://github.com/ncryptid/razorgrrl-theme
+[submodule "doks"]
+	path = doks
+	url = https://github.com/h-enk/doks
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
