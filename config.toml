@@ -40,9 +40,9 @@ pygmentsStyle = "monokai"
     {name = "linkedin", url = "https://example.com"},
     {name = "stackoverflow", url = "https://example.com"},
     {name = "dribbble", url = "https://example.com"},
-    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://example.com"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "instagram", url = "https://instagram.com/naadliw"},
+    {name = "twitch", url = "https://twitter.com/naadliw"},
+    {name = "email", url = "mailto:mwildanfahrezi114@gmail.com"}
   ]
   metaKeywords = ["blog", "gokarna", "hugo"]
 
@@ -56,7 +56,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    url = "/post/"
     weight = 2
 
   [[menu.main]]
