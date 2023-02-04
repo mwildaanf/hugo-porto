@@ -1,4 +1,4 @@
-baseURL = "https://coreprimal"
+baseURL = "https://coreprimal.com"
 title = "Core Primal"
 theme = "gokarna"
 languageCode = "en"
@@ -56,7 +56,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    url = "/post/"
     weight = 2
 
   [[menu.main]]

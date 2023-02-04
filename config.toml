@@ -11,8 +11,8 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Marauders"
-  description = "Sky above, sand below and peace within"
-  avatarURL = "/images/avatar.webp"
+  description = "Life is ruining about code"
+  avatarURL = "https://w7.pngwing.com/pngs/713/232/png-transparent-computer-icons-source-code-coder-miscellaneous-angle-text-thumbnail.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
@@ -54,7 +54,7 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "Post"
     pre = "<span data-feather='book'></span>"
     url = "/post/"
     weight = 2
@@ -74,7 +74,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/526avijitgupta/gokarna"
+    url = "https://github.com/mwildaanf"
     weight = 5
 
   [[menu.main]]
