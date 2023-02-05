@@ -11,8 +11,8 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Marauders"
-  description = "Sky above, sand below and peace within"
-  avatarURL = "/images/avatar.webp"
+  description = "Life is Ruining About Code"
+  avatarURL = "/assets/logo.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """

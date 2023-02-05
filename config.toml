@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "The Marauders"
   description = "Life is ruining about code"
-  avatarURL = "assets/logo.png"
+  avatarURL = "/assets/logo.png"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
   customHeadHTML = """
